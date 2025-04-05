@@ -1,8 +1,4 @@
-# Fichier audio
-
-[CIS3110-Class-Audio-2025-02-06-converted.mp3](https://uoguelphca-my.sharepoint.com/personal/fmainvil_uoguelph_ca/Documents/Fichiers%20transcrits/CIS3110-Class-Audio-2025-02-06-converted.mp3)
-
-# Transcription
+# Transcription 2025-02-06
 
 OK. There have been a number of questions about this kind of example so I thought I would just walk this example again to make sure that we all get all the little bits that we want to see here. So remember, the page offset is the number of bits making up the page size. So a 512 byte page size in example one gives us 9 bits of offset. If we're told we have an 11 bit page offset, that means we have 2 to the 11 bits representing the number for what we have as the offset which is 0x800 or 2048 bytes, 2 kilobyte page size. OK, one just leads to the other. So we've got 2 to the 11. 2 to the 11 is 2048 or HEX 800. Hex 800 could be represented as 2 to the 11 also 11 bit offset. 
 
