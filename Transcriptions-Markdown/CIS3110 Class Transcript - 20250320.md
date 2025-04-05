@@ -1,4 +1,4 @@
-# Revised Transcript of CIS3110 Class Audio (2025-03-20)
+# Revised Transcript of CIS3110 Lecture 12 (2025-03-20)
 
 All right, everybody, off we go. So a couple of notes on assignment 4.
 

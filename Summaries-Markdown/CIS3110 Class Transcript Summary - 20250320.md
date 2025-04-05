@@ -1,4 +1,4 @@
-# CIS3110 - Summary Notes (March 20, 2025)
+# CIS3110 - Lecture 12 - Summary Notes (March 20, 2025)
 
 ## Part 1: Assignment 4 - FAT File System (File-System Structure 14.1-14.6)
 
